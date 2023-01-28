@@ -1,7 +1,5 @@
 
-## About Laravel
-
-Instructions:
+## Instructions
 
 1) Create a database in mysql and mention this database name in your env file.
 2) Run command "composer install" to install required packages and libraries for the project.
